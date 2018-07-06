@@ -1,2 +1,2 @@
 # fccBasicAlgorithmScripting
-These are algorithm challenges that I have completed from www.FreeCodeCamp.org
+These are algorithm challenges I have completed from www.FreeCodeCamp.org
